@@ -1,0 +1,11 @@
+{
+  "type": "overworld",
+  "generator": {
+    "type": "noise",
+    "biome_source": {
+      "type": "fixed",
+      "biome": "ice_spikes"
+    },
+    "settings": "floating_islands"
+  }
+}
