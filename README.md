@@ -16,8 +16,6 @@ You can install this data pack by following these steps:
 2. Drop the downloaded file into your world's data packs screen upon world creation.
 3. Enable the data pack and create your world.
 
-For more detailed instructions on installing data packs, refer to the official [Minecraft Wiki](https://minecraft.fandom.com/wiki/Tutorials/Installing_data_packs) guide.
-
 ## License
 
 This project is licensed under the [GNU GPLv3](./LICENSE) license.
