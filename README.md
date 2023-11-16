@@ -6,7 +6,7 @@ _Frostbound Peaks_ is a data pack for Minecraft 1.20+ that aims to give a custom
 
 This data pack brings back a Minecraft survival challenge that was enjoyed in older Minecraft versions before the changes to world generation settings made it no longer possible. Fortunately, the ability to customize world generation still exists in the game, allowing us to recreate this experience as a data pack.
 
-The core functionality of _Frostbound Peaks_ is the generation of a world using the `single biome` option set to `ice spikes` and the world type set to the old `floating islands` preset. This provides a unique and challenging survival environment. Additional customizations will be added in the future to further enhance the custom survival challenge experience.
+The core functionality of _Frostbound Peaks_ is the generation of a world using the `single biome` option set to `ice spikes` and the world type set to the old `floating islands` preset. The current version of the data pack also replaces all skeletons with strays. Additional customizations will be added in the future to further enhance the custom survival challenge experience.
 
 ## Installation
 
