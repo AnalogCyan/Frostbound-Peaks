@@ -25,11 +25,6 @@ _Frostbound Peaks_ is a data pack for Minecraft that transforms the survival exp
 - 31 rethemed advancements across all 5 tabs (Story, Nether, End, Adventure, Husbandry)
 - Includes unique challenges like "Rare Timber" (obtaining wood) and "Cold Feet No More" (crafting leather boots for powder snow protection)
 
-## Compatibility
-
-- **Minecraft**: 26.1 Snapshot 10+
-- **Loader**: Fabric Loader 0.18.4+ (or any loader supporting data packs)
-
 ## Installation
 
 1. Download the latest `Frostbound-Peaks.zip` file from the [releases](https://github.com/AnalogCyan/Frostbound-Peaks/releases) page.
