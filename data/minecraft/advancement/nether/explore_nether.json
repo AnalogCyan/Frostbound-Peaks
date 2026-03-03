@@ -1,0 +1,79 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:packed_ice"
+    },
+    "title": {
+      "text": "Frozen Destinations"
+    },
+    "description": {
+      "text": "Explore all three frozen biomes of the Nether"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:nether/root",
+  "criteria": {
+    "frozen_nether_wastes": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "frostbound:frozen_nether_wastes"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "frozen_soul_sand_valley": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "frostbound:frozen_soul_sand_valley"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "frozen_basalt_deltas": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "frostbound:frozen_basalt_deltas"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "frozen_nether_wastes"
+    ],
+    [
+      "frozen_soul_sand_valley"
+    ],
+    [
+      "frozen_basalt_deltas"
+    ]
+  ]
+}
