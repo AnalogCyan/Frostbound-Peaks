@@ -4,15 +4,15 @@
     "targets": [
       {
         "state": {
-          "Name": "minecraft:magma_block"
+          "Name": "minecraft:ice"
         },
         "target": {
           "predicate_type": "minecraft:block_match",
-          "block": "minecraft:ice"
+          "block": "minecraft:packed_ice"
         }
       }
     ],
-    "size": 22,
+    "size": 18,
     "discard_chance_on_air_exposure": 0.0
   }
 }

@@ -61,13 +61,16 @@
       "minecraft:ore_debris_small",
       "frostbound:blue_ice_blob",
       "frostbound:regular_ice_blob",
-      "frostbound:magma_in_ice"
+      "frostbound:magma_in_ice",
+      "frostbound:stray_ice_blob",
+      "frostbound:stray_magma_blob"
     ],
     [],
     [
       "minecraft:spring_lava",
       "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal"
+      "minecraft:red_mushroom_normal",
+      "frostbound:snow_layer_scatter"
     ]
   ],
   "has_precipitation": false,

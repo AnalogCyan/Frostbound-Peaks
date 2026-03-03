@@ -9,8 +9,8 @@
         {
           "biome": "frostbound:frozen_nether_wastes",
           "parameters": {
-            "temperature": [-0.25, 1.0],
-            "humidity": [-0.25, 1.0],
+            "temperature": [-0.42857142857142855, 1.0],
+            "humidity": [-0.4, 1.0],
             "continentalness": [-1.0, 1.0],
             "erosion": [-1.0, 1.0],
             "weirdness": [-1.0, 1.0],
@@ -22,7 +22,7 @@
           "biome": "frostbound:frozen_soul_sand_valley",
           "parameters": {
             "temperature": [-1.0, 1.0],
-            "humidity": [-1.0, -0.25],
+            "humidity": [-1.0, -0.4],
             "continentalness": [-1.0, 1.0],
             "erosion": [-1.0, 1.0],
             "weirdness": [-1.0, 1.0],
@@ -33,8 +33,8 @@
         {
           "biome": "frostbound:frozen_basalt_deltas",
           "parameters": {
-            "temperature": [-1.0, -0.25],
-            "humidity": [-0.25, 1.0],
+            "temperature": [-1.0, -0.42857142857142855],
+            "humidity": [-0.4, 1.0],
             "continentalness": [-1.0, 1.0],
             "erosion": [-1.0, 1.0],
             "weirdness": [-1.0, 1.0],

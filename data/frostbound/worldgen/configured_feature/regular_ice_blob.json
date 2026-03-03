@@ -8,11 +8,11 @@
         },
         "target": {
           "predicate_type": "minecraft:block_match",
-          "block": "minecraft:packed_ice"
+          "block": "minecraft:blue_ice"
         }
       }
     ],
-    "size": 33,
+    "size": 38,
     "discard_chance_on_air_exposure": 0.0
   }
 }

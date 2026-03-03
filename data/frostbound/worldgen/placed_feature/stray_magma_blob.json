@@ -1,9 +1,9 @@
 {
-  "feature": "frostbound:regular_ice_blob",
+  "feature": "frostbound:stray_magma_blob",
   "placement": [
     {
       "type": "minecraft:count",
-      "count": 10
+      "count": 2
     },
     {
       "type": "minecraft:in_square"
@@ -13,7 +13,7 @@
       "height": {
         "type": "minecraft:uniform",
         "min_inclusive": {
-          "absolute": 25
+          "above_bottom": 5
         },
         "max_inclusive": {
           "absolute": 32
