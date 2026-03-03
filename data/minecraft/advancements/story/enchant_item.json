@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {"id": "minecraft:enchanted_book"},
+    "title": {"text": "Arctic Arcana"},
+    "description": {"text": "Infuse an item with magic frozen into the enchanting table"},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:story/mine_stone",
+  "criteria": {
+    "enchanted_item": {
+      "trigger": "minecraft:enchanted_item"
+    }
+  }
+}

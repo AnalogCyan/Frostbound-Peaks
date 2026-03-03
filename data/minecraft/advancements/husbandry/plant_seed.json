@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {"id": "minecraft:wheat_seeds"},
+    "title": {"text": "Seeds in the Permafrost"},
+    "description": {"text": "Plant a seed in soil that barely yields to the hoe"},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "planted_seed": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "item": {"items": "#minecraft:seeds"}
+      }
+    }
+  }
+}

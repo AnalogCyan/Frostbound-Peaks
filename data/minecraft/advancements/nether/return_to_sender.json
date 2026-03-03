@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {"id": "minecraft:fire_charge"},
+    "title": {"text": "Sent Back Cold"},
+    "description": {"text": "Deflect a ghast's fireball back with a projectile"},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:nether/find_fortress",
+  "criteria": {
+    "deflect_fireball": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "entity": {"type": "minecraft:ghast"}
+      }
+    }
+  }
+}
